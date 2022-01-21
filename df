@@ -1,0 +1,29 @@
+[33mcommit bff89c77ed28736b3a1bc187615ebcbe1190e003[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Reice <reiceraudry@gmail.com>
+Date:   Fri Jan 21 16:17:22 2022 -0600
+
+    Commit before doing pop-up
+
+[33mcommit 019e2604ef9c788573de00f69a8ca476d25af07d[m
+Author: Reice <reiceraudry@gmail.com>
+Date:   Fri Jan 21 16:08:44 2022 -0600
+
+    Add code to HTML and CSS. Add test photo for background.
+
+[33mcommit f176b2c95ff547e25730a8f396d8b84579ea1b1b[m
+Author: Reice <reiceraudry@gmail.com>
+Date:   Fri Jan 21 14:56:52 2022 -0600
+
+    Ditch table method. Build out containers in HTML. Expand CSS.
+
+[33mcommit 5d5ac83232b6d1b86779d5456a479695cc235cee[m
+Author: Reice <reiceraudry@gmail.com>
+Date:   Fri Jan 21 13:10:26 2022 -0600
+
+    Link HTML and CSS files, begin tables in HTML
+
+[33mcommit ee4bd1d730b466e958567c78a233879eb3588534[m
+Author: Reice <reiceraudry@gmail.com>
+Date:   Fri Jan 21 12:47:09 2022 -0600
+
+    Set up files
