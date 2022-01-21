@@ -1,6 +1,6 @@
 html {
     font-family: 'Fira Sans'; serif;
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 75%);
 }
 
 /*background-image: url("./reeds.jpg");*/
@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-    border: 1px solid gray;
+    border: 1.5px solid gray;
     padding: 25px;
     margin-top: 10px;
 }
@@ -68,20 +68,29 @@ h3 {
 .font1 {
     font-family: 'Arvo', serif;
     font-size: 20px;
-    background-color: #d48ab050;
+    background-color: #d48ab035;
     min-height: 100px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
 }
 
 .font2 {
     font-family: 'Fira Sans', sans-serif;
     font-size: 20px;
-    background-color: #ffc83050;
+    background-color: #ffc83035;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
 }
 
 .font3 {
     font-family: 'Special Elite', cursive;
     font-size: 20px;
-    background-color: #599fbd50;
+    background-color: #599fbd35;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
 }
 
 /***LIST***/
